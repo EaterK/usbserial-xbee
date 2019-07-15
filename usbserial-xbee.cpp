@@ -1,5 +1,5 @@
 /**
- * @file usbserial3.cpp
+ * @file usbserial-xbee.cpp
  *
  * @brief This program is for Xbee wireless communication
  * @author K.Terae
